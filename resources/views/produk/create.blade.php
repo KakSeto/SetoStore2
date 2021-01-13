@@ -7,8 +7,8 @@
     <title>Tambah Data Produk - SetoStore</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
-<body style="background: lightgray">
 
+<body style="background: lightgray">
     <div class="container mt-5 mb-5">
         <div class="row">
             <div class="col-md-12">
